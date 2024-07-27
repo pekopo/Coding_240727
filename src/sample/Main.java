@@ -9,7 +9,7 @@ public class Main {
 		List<String> answerlist = new ArrayList<String>();
 		String question = "赤いフルーツを選んでください";
 		
-		
+		answerlist.add("バナナ");
 	}
 
 }

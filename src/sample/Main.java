@@ -30,6 +30,9 @@ public class Main {
 		}
 		
 		String inputAnswer = new Scanner(System.in).next();
+		if(inputAnswer.equals(answerlist.get(1))) {
+			System.out.println("正解！");
+		}
 		
 	}
 

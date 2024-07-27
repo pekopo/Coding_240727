@@ -42,7 +42,7 @@ public class Main {
 				System.out.println("正解！");
 				break;
 			} else {
-				System.out.println("不正解！");
+				System.out.println("不正解！もう一度！");
 			}
 		
 		}

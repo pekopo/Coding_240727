@@ -29,6 +29,8 @@ public class Main {
 			
 		}
 		
+		System.out.println("答えを入力してください");
+		
 		String inputAnswer = new Scanner(System.in).next();
 		if(inputAnswer.equals(answerlist.get(1))) {
 			System.out.println("正解！");

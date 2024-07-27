@@ -32,9 +32,9 @@ public class Main {
 		String inputAnswer = new Scanner(System.in).next();
 		if(inputAnswer.equals(answerlist.get(1))) {
 			System.out.println("正解！");
+		} else {
+			System.out.println("不正解！");
 		}
-		System.out.println("不正解！");
-		
 	}
 
 }

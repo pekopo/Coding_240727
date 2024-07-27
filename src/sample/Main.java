@@ -33,6 +33,7 @@ public class Main {
 		if(inputAnswer.equals(answerlist.get(1))) {
 			System.out.println("正解！");
 		}
+		System.out.println("不正解！");
 		
 	}
 
